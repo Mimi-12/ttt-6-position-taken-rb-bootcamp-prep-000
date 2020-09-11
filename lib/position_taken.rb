@@ -9,6 +9,3 @@ def position_taken("board")
   end
 
      puts position_taken
-
-
-def
