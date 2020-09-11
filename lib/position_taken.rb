@@ -7,5 +7,3 @@ def position_taken("board")
   else
     return postion is taken
   end
-
-     puts position_taken
